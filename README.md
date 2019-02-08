@@ -32,6 +32,9 @@ https://www.ilamb.org/doc/first_steps.html
 
 We will look at some of the other features not covered in the tutorial:
 
+ - Masking regions
+ - Relationship plots
+
 ## 3. Data preparation tips
 
 Having the input data in the correct netCDF format is essential for running ILAMB. The specifications for netCDF input data can seem quite complex at first, so this section will cover how input data should be formatted.
