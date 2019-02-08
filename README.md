@@ -12,6 +12,8 @@ This respository contains the notes and links to the required files for the GCEL
 
 Please complete the instructions below on how to set up your linux environment.
 
+https://www.wiki.ed.ac.uk/display/GS/Configuring+ILAMB+for+GCEL+users+-+first+time
+
 (It is recommended to use the School's Linux infrastructure to run ILAMB, as it is already pre-installed here.)
 
 ### Other tutorial followers
