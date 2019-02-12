@@ -30,8 +30,11 @@ https://www.ilamb.org/doc/first_steps.html
 
 ## 2. Further features
 
-We will look at some of the other features not covered in the tutorial:
+Time permitting, we will look at some of the other features not covered in the tutorial:
 
+https://www.geos.ed.ac.uk/~dvalters/ILAMB_extra_docs/build/html/
+
+ - NetCDF metadata conventions
  - Masking regions
  - Relationship plots
 
