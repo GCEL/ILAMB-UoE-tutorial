@@ -7,9 +7,19 @@ This respository contains the notes and links to the required files for the GCEL
 
 ## 0. Overview
 
-The figures in the paper are worh exploring for a few minutes, just to get a feel/reminder of ILAMB outputs.
+ILAMB is a software pacakge for evaluating model outputs angainst observation (benchmark) datasets. It was originially developed by Oak Ridge National Lab in the US and is now an open-source project. We are using it in the MEMBRANE project to evaluate model performance of the Carbon cycle in the Brazilian rainforest/South-America region.
+
+ILAMB was introduced at a previous GCEL meeting, but we will begin with a brief recap and highlight of what it does for a few minutes.
+
+### Paper
+
+The figures in the paper are worh exploring just to get a feel/reminder of ILAMB outputs.
 
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001354
+
+### Project site
+
+https://www.ilamb.org/
 
 Nathan Collier has written a nice overview of ILAMB at the landing page of the project, with links to examples:
 
