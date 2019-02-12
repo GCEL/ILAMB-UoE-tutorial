@@ -27,7 +27,7 @@ https://bitbucket.org/ncollier/ilamb/overview
 
 (5-10 minutes here just exploring what it can do).
 
-MEMBRANE Example: https://www.geos.ed.ac.uk/~dvalters/INLAND_JULES_CARDAMOM/CSSP_Feb_draft/JULES-INLAND-CARDAMOMEvaluation
+MEMBRANE Example: https://www.geos.ed.ac.uk/~dvalters/INLAND_JULES_CARDAMOM/CSSP_Feb_draft/
 
 ## Setup for hands-on tutorial using ILAMB
 
