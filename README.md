@@ -22,6 +22,18 @@ Installation of ILAMB is detailed in Tutorial hosted by Oak Ridge National Lab:
 
 https://www.ilamb.org/doc/install.html
 
+## 0. Overview
+
+The figures in the paper are worh exploring for a few minutes, just to get a feel/reminder of ILAMB outputs.
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001354
+
+Nathan Collier has written a nice overview of ILAMB at the landing page of the project, with links to examples:
+
+https://bitbucket.org/ncollier/ilamb/overview
+
+(5-10 minutes here just exploring what it can do).
+
 ## 1. Introductory Tutorial
 
 We will be following the beginners tutorial written by ORNL (Oak Ridge National Lab), who are the original developers. The tutorial pages are here:
