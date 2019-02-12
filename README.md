@@ -1,12 +1,23 @@
-# ILAMB Tutorial-Workshop 
+# ILAMB Tutorial/Workshop 
 
-## Global Change Ecology Lab, School of GeoSciences, University of Edinburgh
-
-### Tuesday 12th February 2019
+**Global Change Ecology Lab, School of GeoSciences, University of Edinburgh**
+***Tuesday 12th February 2019***
 
 This respository contains the notes and links to the required files for the GCEL ILAMB workshop.
 
-## Set-up
+## 0. Overview
+
+The figures in the paper are worh exploring for a few minutes, just to get a feel/reminder of ILAMB outputs.
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001354
+
+Nathan Collier has written a nice overview of ILAMB at the landing page of the project, with links to examples:
+
+https://bitbucket.org/ncollier/ilamb/overview
+
+(5-10 minutes here just exploring what it can do).
+
+## Setup for hands-on tutorial using ILAMB
 
 ### Pre-workshop set up for UoE staff/PGRs
 
@@ -21,18 +32,6 @@ https://www.wiki.ed.ac.uk/display/GS/Configuring+ILAMB+for+GCEL+users+-+first+ti
 Installation of ILAMB is detailed in Tutorial hosted by Oak Ridge National Lab:
 
 https://www.ilamb.org/doc/install.html
-
-## 0. Overview
-
-The figures in the paper are worh exploring for a few minutes, just to get a feel/reminder of ILAMB outputs.
-
-https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001354
-
-Nathan Collier has written a nice overview of ILAMB at the landing page of the project, with links to examples:
-
-https://bitbucket.org/ncollier/ilamb/overview
-
-(5-10 minutes here just exploring what it can do).
 
 ## 1. Introductory Tutorial
 
